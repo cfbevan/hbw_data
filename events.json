@@ -1,0 +1,14 @@
+[
+    {
+        "date_time": {
+            "timeZone": "America/New_York",
+            "year": 2025,
+            "month": 1,
+            "day": 11,
+            "hour": 17,
+            "minute": 0
+        },
+        "title": "Something Fun",
+        "description": "A longer description of the event. Can be multiple paragraphs."
+    }
+]
